@@ -1,0 +1,12 @@
+{
+	"RESIZE_IMAGE_PARAMS": {
+		"targetSizeWidth": 128,
+		"targetSizeHeigth": 128,
+		"acceptableRatio": 1.5,
+		
+		"resizeType": 1,
+		
+		"directoryWithImages": "C:\\work\\img\\trainForestCut",
+		"directoryForSavingImages": "C:\\work\\img\\trainForest128"
+	}
+}
